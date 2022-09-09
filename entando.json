@@ -1,0 +1,22 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "simple-mfe",
+            "customElement": "simple-mfe",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "simple-mfe",
+                "it": "simple-mfe"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "20220909-config",
+    "version": "0.0.1",
+    "description": "20220909-config description",
+    "type": "bundle"
+}
