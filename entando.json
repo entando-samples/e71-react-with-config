@@ -9,9 +9,16 @@
             "group": "free",
             "publicFolder": "public",
             "titles": {
-                "en": "simple-mfe",
-                "it": "simple-mfe"
-            }
+                "en": "Simple MFE",
+                "it": "Simple MFE"
+            },
+            "configMfe": "simple-mfe-config",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "The name for this Hello World app"
+                }
+            ]
         },
         {
             "name": "simple-mfe-config",
