@@ -9,8 +9,8 @@
             "group": "free",
             "publicFolder": "public",
             "titles": {
-                "en": "Simple MFE",
-                "it": "Simple MFE"
+                "en": "Simple Configurable MFE",
+                "it": "Simple Configurable MFE"
             },
             "configMfe": "simple-mfe-config",
             "params": [
@@ -30,8 +30,8 @@
         }
     ],
     "svc": [],
-    "name": "20220909-config",
+    "name": "e71-simple-mfe-with-config",
     "version": "0.0.1",
-    "description": "20220909-config description",
+    "description": "Simple configurable MFE",
     "type": "bundle"
 }
